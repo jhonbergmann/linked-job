@@ -10,8 +10,8 @@
 <p align="center">🔍 Smart job search URL generator for LinkedIn</p>
 
 <p align="center">
-  <img width="50%" src="docs/assets/screenshot-1.jpg" alt="screenshot-1" >
-  <img width="50%" src="docs/assets/screenshot-2.jpg" alt="screenshot-2" >
+  <img width="45%" src="docs/assets/screenshot-1.jpg" alt="screenshot-1" >
+  <img width="45%" src="docs/assets/screenshot-2.jpg" alt="screenshot-2" >
 </p>
 
 ## 🔺 Demo
